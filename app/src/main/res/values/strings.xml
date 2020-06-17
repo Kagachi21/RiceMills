@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RiceMills</string>
+    <string name="RiceMills_tittle">RiceMills</string>
+    <string name="SignIn">SIGN IN</string>
+    <string name="emailText">Username..</string>
+    <string name="passwordText">Password..</string>
+    <string name="loginText">LOGIN</string>
+    <string name="forgotPasswordText">Forgot Password ?</string>
+    <string name="Home">Home</string>
+    <string name="penjualan">Data Penjualan</string>
+    <string name="pemasokan">Data Pemasokan</string>
+    <string name="penggilingan">Data Penggilingan</string>
+    <string name="stock">Data Stock</string>
+    <string name="hasil_giling">Data Hasil Giling</string>
+</resources>
